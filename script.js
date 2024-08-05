@@ -1,4 +1,4 @@
-const accessKey = "rLukELvQUeIRz3svFxFIfvdS0d-dp0pYRA75MCzSYBM";
+const accessKey = "YOUR_UNSPLASH_API_ACCESS_KEY_HERE";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
